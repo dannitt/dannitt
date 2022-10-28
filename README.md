@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dannitt-Yordanka Georgieva
+- 🌱 I’m currently learning JS in SoftUni
+- 📫 How to reach me by email -danni_tt@yahoo.com
